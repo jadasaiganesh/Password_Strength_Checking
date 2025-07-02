@@ -1,0 +1,67 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 5275-5955
+F:.
+¦   db.sqlite3
+¦   manage.py
+¦   structure.txt
+¦   
++---checker
+¦   ¦   admin.py
+¦   ¦   apps.py
+¦   ¦   models.py
+¦   ¦   tests.py
+¦   ¦   urls.py
+¦   ¦   views.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---migrations
+¦   ¦   ¦   __init__.py
+¦   ¦   ¦   
+¦   ¦   +---__pycache__
+¦   ¦           __init__.cpython-313.pyc
+¦   ¦           
+¦   +---models
+¦   ¦       password_strength_model.pkl
+¦   ¦       password_strength_model_enhanced.pkl
+¦   ¦       tfidf_vectorizer.pkl
+¦   ¦       
+¦   +---static
+¦   ¦   +---images
+¦   ¦           bg.webp
+¦   ¦           bg2.webp
+¦   ¦           bg3.webp
+¦   ¦           bg4.webp
+¦   ¦           
+¦   +---templates
+¦   ¦   +---checker
+¦   ¦           index.html
+¦   ¦           
+¦   +---__pycache__
+¦           admin.cpython-313.pyc
+¦           apps.cpython-313.pyc
+¦           models.cpython-313.pyc
+¦           urls.cpython-313.pyc
+¦           views.cpython-313.pyc
+¦           __init__.cpython-313.pyc
+¦           
++---images
+¦       Screenshot 2025-07-02 145947.png
+¦       Screenshot 2025-07-02 145957.png
+¦       Screenshot 2025-07-02 150021.png
+¦       Screenshot 2025-07-02 150040.png
+¦       
++---New folder
++---password_checker
+¦   ¦   asgi.py
+¦   ¦   settings.py
+¦   ¦   urls.py
+¦   ¦   wsgi.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---__pycache__
+¦           settings.cpython-313.pyc
+¦           urls.cpython-313.pyc
+¦           wsgi.cpython-313.pyc
+¦           __init__.cpython-313.pyc
+¦           
++---static
